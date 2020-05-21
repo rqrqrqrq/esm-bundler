@@ -1,1 +1,1 @@
-export const dynamic = () => console.log('dyn');
+export const peka = () => console.log('dyn');
